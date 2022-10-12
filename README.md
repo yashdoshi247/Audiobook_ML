@@ -25,7 +25,7 @@ Target variable: Boolean value that represents if a consumer converted or not. T
 
 ### To create a machine learning algorithm that can predict if a customer will buy again.
 
-This is a classification problem with two class- will buy or won't buy.
+This is a classification problem with two classes- will buy or won't buy.
 
 ## Action Plan:
 
